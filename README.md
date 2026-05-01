@@ -12,7 +12,7 @@
 
 ### 🎧 Modo Desarrollo
 
-[![Spotify](https://img.shields.io/badge/🎵_Música_Urbana-Hip--Hop_|_Rap_|_Trap-black?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=black&color=1DB954)](https://open.spotify.com/playlist/2qcg9zfVJTtpcWvsw73g6U)
+[![Spotify](https://img.shields.io/badge/🎵_Música_Urbana-black?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=black&color=1DB954)](https://open.spotify.com/playlist/2qcg9zfVJTtpcWvsw73g6U)
 
 *Sin música no se toca ninguna linea de código.*
 
@@ -25,8 +25,6 @@
 Soy un apasionado por el desarrollo frontend, siempre buscando crear interfaces que no solo se vean bien, sino que funcionen a la perfección. Como estudiante de Analista Programador, disfruto transformar ideas en proyectos reales y funcionales.
 
 Mi enfoque está en la **experiencia de usuario (UX)** y el **rendimiento (performance)**, sin descuidar las buenas prácticas de código. Me motiva aprender constantemente y enfrentar nuevos desafíos que me permitan crecer.
-
-> *"Me encantan los juegos shooters * 🎮
 
 ---
 
