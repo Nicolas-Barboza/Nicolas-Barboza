@@ -74,7 +74,6 @@ También tengo experiencia y conocimientos en estas herramientas y lenguajes:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-nicol%C3%A1s-barboza-a02133380/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicolas-Barboza)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicobarboza85@gmail.com)
 
 </div>
