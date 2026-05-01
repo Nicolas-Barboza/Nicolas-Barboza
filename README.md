@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Gonzalo Nicolás Barboza
 
-### Desarrollador Frontend | Estudiante de Analista Programador Universitario
+### frontend dev | programmer analyst
 
 *"Desarrollo frontend enfocado en proyectos reales y experiencias funcionales."*
 
@@ -22,7 +22,9 @@
 
 ## 🚀 Sobre mí
 
-Soy un apasionado por el desarrollo frontend, siempre buscando crear interfaces que no solo se vean bien, sino que funcionen a la perfección. Como estudiante de Analista Programador, disfruto transformar ideas en proyectos reales y funcionales.
+Estudiante de **Analista Programador Universitario**, enfocado en frontend.
+
+Soy un apasionado por el desarrollo web, siempre buscando crear interfaces que no solo se vean bien, sino que funcionen a la perfección, disfruto transformar ideas en proyectos reales y funcionales.
 
 Mi enfoque está en la **experiencia de usuario (UX)** y el **rendimiento (performance)**, sin descuidar las buenas prácticas de código. Me motiva aprender constantemente y enfrentar nuevos desafíos que me permitan crecer.
 
